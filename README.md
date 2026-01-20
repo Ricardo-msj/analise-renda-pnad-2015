@@ -124,5 +124,5 @@ O projeto reforça a importância de uma abordagem analítica estruturada, combi
 📊 Foco em Análise de Dados e Automação de Processos  
 
 📧 Email: ricardo.martins11msj@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/ricardo-martins-b0811b315/
+🔗 LinkedIn: https://www.linkedin.com/in/ricardo-martins-31885b3a2/
 
