@@ -98,7 +98,7 @@ Ou diretamente no Colab:
 
 Este projeto também foi documentado em formato de artigo, com foco em **interpretação dos dados e storytelling analítico**:
 
-👉 (adicione aqui o link do artigo no Medium)
+https://medium.com/@ricardo.martins11msj/o-que-a-pnad-2015-revela-sobre-a-distribui%C3%A7%C3%A3o-de-renda-no-brasil-fb3a2c3fdfbb?postPublishedType=repub
 
 ---
 
